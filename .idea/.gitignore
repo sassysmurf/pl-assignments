@@ -1,8 +1,14 @@
 # Default ignored files
-/shelf/
-/workspace.xml
-/PL_course.iml
-/inspectionProfiles/profiles_settings.xml
-/misc.xml
-/modules.xml
-/vcs.xml
+*.iml
+*.ipr
+*.iws
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
